@@ -5,5 +5,6 @@
     4. Creating bar charts and line chats to visualize the data
     
     '''
-    ![](https://github.com/virarkh/COVID-19/blob/master/IMG/Dinamika_Kasus.png)
+        ![Dinamika_Kasus](https://user-images.githubusercontent.com/50388300/134272532-f7d769ac-cb9e-43cf-a284-f88fea99f52d.png)
+
     '''
