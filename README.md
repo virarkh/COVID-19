@@ -1,4 +1,4 @@
-## Exploration and Analysis Data COVID-19 in West Java using Python
+**Exploration and Analysis Data COVID-19 in West Java using Python**
     1. Understanding the dynamics of Covid-19 cases in West Java using available public data
     2. Importing data real-time using API
     3. Cleaning and doing some data transformation
