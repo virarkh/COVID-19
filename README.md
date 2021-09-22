@@ -4,4 +4,4 @@
     3. Cleaning and doing some data transformation
     4. Creating bar charts and line chats to visualize the data
     
-    ![] (https://github.com/virarkh/COVID-19/blob/master/IMG/Akumulasi_Aktif.png)
+    ![](https://github.com/virarkh/COVID-19/blob/master/IMG/Akumulasi_Aktif.png)
