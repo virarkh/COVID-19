@@ -66,7 +66,6 @@ plt.show()
 ```
 ![image](https://user-images.githubusercontent.com/50388300/176937255-aebe5ed8-efae-4b16-9790-f2e7c3b3cec1.png)
 
-<div align="center">
-:arrow_backward:<a href="https://github.com/virarkh/Covid-19-Jabar">Repository</a><br>
+<div align="right">
 <a href="https://github.com/virarkh">Project Lainnya</a>:arrow_forward:
 </div>
