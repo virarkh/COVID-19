@@ -67,5 +67,5 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/50388300/176937255-aebe5ed8-efae-4b16-9790-f2e7c3b3cec1.png)
 
 <div align="right">
-<a href="https://github.com/virarkh">Project Lainnya :arrow_forward:</a>
+<a href="https://github.com/virarkh">Project Lainnya > </a>
 </div>
